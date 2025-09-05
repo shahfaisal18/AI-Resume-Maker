@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An AI-powered application to generate professional, ATS-friendly resumes. Users can input their personal, educational, and professional details to create a polished resume, with options to download as a PDF. Features different tiers for usage.",
+  "requestFramePermissions": []
+}
